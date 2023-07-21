@@ -1,9 +1,9 @@
-![image](https://github.com/Danish-khan-dk/Danish-khan-dk/assets/108347494/80384e9c-4212-4bb3-9667-25508e4b7a63)![logo](https://github.com/Danish-khan-dk/Danish-khan-dk/blob/main/GitHub%20Banner%201.png)
+![logo](https://github.com/Danish-khan-dk/Danish-khan-dk/blob/main/GitHub%20Banner%201.png)
 
 <h1 align="center">Hi 👋, I'm Danish Khan</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="380" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
  
 - 🔭 I’m currently Pursuing Full Stack Master Development [Business Portal](danishkhan1.pythonanywhere.com)
 
